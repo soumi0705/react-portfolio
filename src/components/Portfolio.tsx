@@ -15,7 +15,7 @@ const Porfolio = (props: {resumeData: any}) => {
                   <div className="columns portfolio-item" key={index}>
                     <div className="item-wrap">
                       {/* <a href=""> */}
-                      <img src={`/images/${item.imgurl}`} className="item-img" />
+                      <img src={`./images/${item.imgurl}`} className="item-img" />
                       <div className="overlay">
                         <div className="portfolio-item-meta">
                           <h5>{item.name}</h5>
