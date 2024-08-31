@@ -4,8 +4,7 @@ let resumeData = {
   role: "Software/ Web-Developer",
   linkedinId: " https://www.linkedin.com/in/soumitro-datta-b89919183/",
   skypeid: "live:somida00",
-  roleDescription:
-    " I have a strong grasp of HTML/CSS and Python. Solidity Development and Blockchain DApps have piqued my interest, and I'm presently studying about them.",
+  roleDescription: `Full Stack Developer at Crystal Delta, proficient in ReactJS, NodeJS, and PostgreSQL. Experienced in Shopify solutions, LMS data migrations, and LTI development for Blackboard and Canvas. Pursuing an MS in Cybersecurity, with a strong emphasis on teamwork and innovation. Proven track record in collaborative projects and global hackathons.`,
   socialLinks: [
     {
       name: "linkedin",
@@ -23,10 +22,13 @@ let resumeData = {
       className: "fa fa-instagram instagram",
     },
   ],
-  aboutme:
-    "I am currently a Full Stack Web-Developer at Crystal Delta, Chennai. I am a self taught Web Developer, currently diving deeper into Blockchain Devlopment with Solidity.",
-  address: "Haryana, India",
-  website: "",
+  aboutme: `Welcome to my personal website! I am a dedicated Full Stack Developer currently working at Crystal Delta in Melbourne. My expertise spans across various technologies, including ReactJS, NodeJS, PostgreSQL, and MySQL. I have a strong foundation in web development, with a particular interest in cybersecurity, which I am further exploring through my MS in Cybersecurity.
+
+My professional journey has been diverse, from contributing to LTI development on platforms like Blackboard and Canvas to working on Shopify solutions and LMS data migrations. I have also managed individual projects for global hackathons, showcasing my ability to work both independently and as part of a team. I believe that effective teamwork is crucial for success, and I always strive to foster a collaborative and supportive work environment.
+
+I am proficient in TypeScript, Node.js, React.js, PostgreSQL, Jest, TypeORM, Shopify, Sequelize.js, Data Structures, HTML/CSS, JavaScript, and Python. My goal is to continuously grow and apply my skills to create innovative solutions that address real-world challenges.`,
+  address: `Haryana, India`,
+  website: "https://soumi0705.github.io/react-portfolio",
   education: [
     {
       UniversityName: "Royal Melourne Institute of Technology, Melbourne",
